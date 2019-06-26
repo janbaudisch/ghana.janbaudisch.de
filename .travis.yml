@@ -1,7 +1,7 @@
 language: generic
 
 install:
-  - bash <(curl https://gist.githubusercontent.com/flyingP0tat0/2268d649532153695eabb0c08f210da3/raw/229a792635894f53bba6d1d8a4de025a2d428a36/download-hugo.sh)
+  - bash <(curl https://gist.githubusercontent.com/janbaudisch/2268d649532153695eabb0c08f210da3/raw/229a792635894f53bba6d1d8a4de025a2d428a36/download-hugo.sh)
   - sudo dpkg -i hugo*.deb
 
 script:
