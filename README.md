@@ -14,7 +14,7 @@ hugo
 
 The generated site will be under `public`.
 
-[build-img]: https://travis-ci.com/flyingP0tat0/ghana.svg?branch=master
-[build-url]: https://travis-ci.com/flyingP0tat0/ghana
+[build-img]: https://travis-ci.com/janbaudisch/ghana.svg?branch=master
+[build-url]: https://travis-ci.com/janbaudisch/ghana
 [site]: https://ghana.janbaudisch.de
 [hugo]: https://gohugo.io
