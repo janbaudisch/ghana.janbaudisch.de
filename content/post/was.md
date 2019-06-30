@@ -36,7 +36,7 @@ mit eigener Regierung und Verwaltung).
 
 ## OVC
 
-Der eigentliche Einsatzort ist ein Waisenhaus, in dem ich mich ab Mittag mich
+Der eigentliche Einsatzort ist ein Waisenhaus, in dem ich mich ab Mittag
 mit um die Betreuung der Kinder kümmern werde. Dazu gehören Hausaufgaben,
 Nachhilfe und natürlich auch Unterhaltung.
 
