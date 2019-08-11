@@ -8,7 +8,7 @@ tags:
   - Fragen
 ---
 
-Was genau werde ich Ghana machen?
+Was genau werde ich in Ghana machen?
 
 <!--more-->
 
@@ -38,14 +38,14 @@ mit eigener Regierung und Verwaltung).
 
 Der eigentliche Einsatzort ist ein Waisenhaus, in dem ich mich ab Mittag
 mit um die Betreuung der Kinder kümmern werde. Dazu gehören Hausaufgaben,
-Nachhilfe und natürlich auch Unterhaltung.
+Nachhilfe und natürlich auch Spiel und Spaß.
 
 Das Waisenhaus ist Teil des sogenannten _Orphans and Vulnerable Children (OVC)_
-Programms, dass sich um Waisen und anderweitig _verletzliche_ Kinder kümmert.
+Programms, das sich um Waisen und _verletzliche_ Kinder kümmert.
 
 ## ICT
 
-Vormittags werde ich in der Nähe für junge Erwachsene Informatik-Unterricht
-geben.
+Vormittags werde ich im Rahmen eines ICT-Kurses jungen Erwachsenen im Umgang
+mit dem Computer helfen.
 
 [weltwaerts]: https://weltwaerts.de
