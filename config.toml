@@ -55,6 +55,20 @@ paginate = 10
     pre = "<i class=\"sidebar-button-icon fa fa-lg fa-rss\"></i>"
     url = "/index.xml"
 
+[[menu.misc]]
+    weight = 2
+    identifier = "instagram"
+    name = "Instagram"
+    pre = "<i class=\"sidebar-button-icon fa fa-lg fa-instagram\"></i>"
+    url = "https://instagram.com/janaufreisen"
+
+[[menu.misc]]
+    weight = 3
+    identifier = "pixelfed"
+    name = "Pixelfed"
+    pre = "<i class=\"sidebar-button-icon fa fa-lg fa-picture-o\"></i>"
+    url = "https:/pixelfed.social/janaufreisen"
+
 [params]
     dateFormat = "2. January 2006"
 
