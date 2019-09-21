@@ -6,14 +6,30 @@ install:
 
 script:
   - hugo
+  - if [ $TRAVIS_BRANCH == review ]; then echo "review.ghana.janbaudisch.de" > public/CNAME; fi
 
 deploy:
-  provider: pages
-  target-branch: gh-pages
-  local-dir: public
-  skip-cleanup: true
-  github-token: $GITHUB_TOKEN
-  name: flyingB0tat0
-  email: bot@baudisch.xyz
-  keep-history: false
-  allow-empty-commit: true
+  - provider: pages
+    target-branch: gh-pages
+    local-dir: public
+    skip-cleanup: true
+    github-token: $GITHUB_TOKEN
+    name: flyingB0tat0
+    email: bot@baudisch.xyz
+    keep-history: false
+    allow-empty-commit: true
+    on:
+      branch: master
+
+  - provider: pages
+    repo: janbaudisch/ghana-review
+    target-branch: gh-pages
+    local-dir: public
+    skip-cleanup: true
+    github-token: $GITHUB_TOKEN
+    name: flyingB0tat0
+    email: bot@baudisch.xyz
+    keep-history: false
+    allow-empty-commit: true
+    on:
+      branch: review
