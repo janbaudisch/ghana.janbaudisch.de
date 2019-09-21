@@ -5,6 +5,7 @@ install:
   - sudo dpkg -i hugo*.deb
 
 script:
+  - if [ $TRAVIS_BRANCH == review ]; then sed "s/ghana.janbaudisch.de/review.ghana.janbaudisch.de/g" config.toml > config.toml; fi
   - hugo
   - if [ $TRAVIS_BRANCH == review ]; then echo "review.ghana.janbaudisch.de" > public/CNAME; fi
 
