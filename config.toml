@@ -67,7 +67,7 @@ paginate = 10
     identifier = "pixelfed"
     name = "Pixelfed"
     pre = "<i class=\"sidebar-button-icon fa fa-lg fa-picture-o\"></i>"
-    url = "https:/pixelfed.social/janaufreisen"
+    url = "https://pixelfed.social/janaufreisen"
 
 [params]
     dateFormat = "2. January 2006"
