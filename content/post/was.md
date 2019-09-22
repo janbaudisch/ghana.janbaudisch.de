@@ -31,21 +31,21 @@ ihren Freiwilligendienst leisten.
 
 <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-2.8137016296386723%2C10.463335851462965%2C-2.5871086120605473%2C10.615055944829953&amp;layer=mapnik&amp;marker=10.539205241353038%2C-2.7004051208496094" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=10.5392&amp;mlon=-2.7004#map=13/10.5392/-2.7004">View Larger Map</a></small>
 
-Mein Einsatzort ist in Jirapa, in der Upper West Region (eine von zehn Regionen
+Mein Einsatzort ist in Jirapa, in der Upper West Region (eine von 16 Regionen
 mit eigener Regierung und Verwaltung).
 
 ## OVC
 
-Der eigentliche Einsatzort ist ein Waisenhaus, in dem ich mich ab Mittag
-mit um die Betreuung der Kinder kümmern werde. Dazu gehören Hausaufgaben,
-Nachhilfe und natürlich auch Spiel und Spaß.
+Der eigentliche Einsatzort ist ein Kinder- und Waisenhaus, in dem ich mich ab
+Mittag mit um die Betreuung der Kinder kümmern werde. Dazu gehören
+Hausaufgaben, Nachhilfe und natürlich auch Spiel und Spaß.
 
-Das Waisenhaus ist Teil des sogenannten _Orphans and Vulnerable Children (OVC)_
-Programms, das sich um Waisen und _verletzliche_ Kinder kümmert.
+Das Haus ist Teil des sogenannten _Orphans and Vulnerable Children (OVC)_
+Programms, das sich um Waisen und _bedürftige_ Kinder kümmert.
 
 ## ICT
 
-Vormittags werde ich im Rahmen eines ICT-Kurses jungen Erwachsenen im Umgang
-mit dem Computer helfen.
+Vormittags werde ich in einer Schule ICT-Unterricht (Informatik) für die
+Klassen 4 bis 8 geben.
 
 [weltwaerts]: https://weltwaerts.de
