@@ -39,7 +39,7 @@ auf dem Flughafen das vermisste Gepäck eintragen lassen und dann ging's los.
 
 # Accra
 
-{{< image classes="fancybox center clear" src="/images/post/angekommen/Accra.jpg" thumbnail-width="75%" title="Blick aus unserem Hostel in Accra" >}}
+{{< image classes="fancybox center clear" src="/images/post/angekommen/Accra.jpg" thumbnail-width="85%" title="Blick aus unserem Hostel in Accra" >}}
 
 In einem Hostel habe ich die nächsten 5 Tage mit den Mitfreiwilligen meiner
 Partnerorganisation (Firm Lifeline Ministries) verbracht.
@@ -58,7 +58,7 @@ zuzusehen.
 
 <p></p>
 
-{{< image classes="fancybox center clear" src="/images/post/angekommen/Strand.jpg" thumbnail-width="75%" title="Strand in Accra" >}}
+{{< image classes="fancybox center clear" src="/images/post/angekommen/Strand.jpg" thumbnail-width="85%" title="Strand in Accra" >}}
 
 # Abfahrt
 
@@ -67,7 +67,7 @@ eigentlichen Einsatzstelle in Jirapa, 600km Luftlinie von Accra.
 
 <p></p>
 
-{{< image classes="fancybox center clear" src="/images/post/angekommen/Busstation.jpg" thumbnail-width="75%" title="Busstation in Accra" >}}
+{{< image classes="fancybox center clear" src="/images/post/angekommen/Busstation.jpg" thumbnail-width="85%" title="Busstation in Accra" >}}
 
 In Ghana werden größere Entfernungen oft mit dem Bus zurückgelegt, so lange
 Fahrten meist über Nacht. Es gibt mehrere Anbieter, die einen mit mehr Komfort,
@@ -89,7 +89,7 @@ zu gewöhnen.
 
 <p></p>
 
-{{< image classes="fancybox center clear" src="/images/post/angekommen/Jirapa.jpg" thumbnail-width="75%" title="Innenstadt von Jirapa" >}}
+{{< image classes="fancybox center clear" src="/images/post/angekommen/Jirapa.jpg" thumbnail-width="85%" title="Innenstadt von Jirapa" >}}
 
 ---
 
