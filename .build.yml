@@ -1,0 +1,20 @@
+image: archlinux
+packages:
+  - curl
+  - rsync
+sources:
+  - https://git.sr.ht/~janbaudisch/ghana.janbaudisch.de
+secrets:
+  - d2be8e67-9e75-4024-8229-0afcffd1a161
+tasks:
+  - setup: |
+      curl -s https://paste.sr.ht/blob/e03c1b942c5ea3671b83b01766dd374898e306e6 | sh
+  - build: |
+      cd ghana.janbaudisch.de
+      export URL=$(./deploy_url.sh)
+      sed -i "s/ghana.janbaudisch.de/${URL}/g" config.toml
+      hugo
+  - deploy: |
+      cd ghana.janbaudisch.de
+      export URL=$(./deploy_url.sh)
+      ~/rsync public/ $URL
