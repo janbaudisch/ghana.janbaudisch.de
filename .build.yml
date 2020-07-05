@@ -8,7 +8,7 @@ secrets:
   - d2be8e67-9e75-4024-8229-0afcffd1a161
 tasks:
   - setup: |
-      curl -s https://paste.sr.ht/blob/e03c1b942c5ea3671b83b01766dd374898e306e6 | sh
+      curl -s https://paste.sr.ht/blob/da38fee5eec30fffb5f6f51d939036232bf16a84 | sh
   - build: |
       cd ghana.janbaudisch.de
       export URL=$(./deploy_url.sh)
