@@ -11,10 +11,10 @@ tasks:
       curl -s https://paste.sr.ht/blob/da38fee5eec30fffb5f6f51d939036232bf16a84 | sh
   - build: |
       cd ghana.janbaudisch.de
-      export URL=$(./deploy_url.sh)
+      export URL=$(./deploy-url.sh)
       sed -i "s/ghana.janbaudisch.de/${URL}/g" config.toml
       hugo
   - deploy: |
       cd ghana.janbaudisch.de
-      export URL=$(./deploy_url.sh)
+      export URL=$(./deploy-url.sh)
       ~/rsync public/ $URL
